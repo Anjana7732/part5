@@ -1,0 +1,8 @@
+POST /api/users
+Content-Type: application/json
+
+{
+  "username": "root",
+  "name": "Superuser",
+  "password": "secret"
+}
